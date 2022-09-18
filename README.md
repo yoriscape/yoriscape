@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoriscape&count_private=true&show_icons=true&hide=issues,contribs)
+
+
+- 🌍 I am from: Delhi, India
+- 📫 Reach me on telgram : @Yoriscape
+- 🤍 I like: coding, cappuccino, travelling & watching animes
+- 🌦️ I dislike: Rainy Weather
