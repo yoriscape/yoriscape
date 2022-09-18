@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 </br>
-
+I'm Yoriichi Tsugikuni (obv a anime name) aka sukh
+</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoriscape&count_private=true&show_icons=true&hide=issues,contribs)
 
 
