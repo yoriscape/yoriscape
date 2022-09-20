@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </br>
 I'm Yoriichi Tsugikuni (obv a anime name) aka sukh
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoriscape&count_private=true&show_icons=true&hide=issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoriscape&count_private=true&show_icons=true&hide=issues,contribs)
 
 
 - 🌍 I am from: Delhi, India
