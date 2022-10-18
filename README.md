@@ -25,4 +25,4 @@ I'm Yoriichi Tsugikuni (obv a anime name) aka sukh
 - 🌍 I am from: Delhi, India
 - 📫 Reach me on telgram : @Yoriscape
 - 🤍 I like: coding, cappuccino, travelling & watching animes
-- 🌦️ I dislike: Nothing Lmao.
+- 🤔 I dislike: Nothing Lmao.
