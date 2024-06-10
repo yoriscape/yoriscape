@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </br>
 I'm Yoriscape 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoriscape&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoriscape&theme=gruvbox&layout=compact)
 
 
 - 🌍 I am from: Delhi, India
